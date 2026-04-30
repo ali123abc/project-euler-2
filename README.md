@@ -1,11 +1,13 @@
-# project-euler-2
-A solution to the basic Fibonacci Sequence Sum problem
+# Project-euler-2 - Even Fibonacci Numbers
+
+## Problem 
+Find the sum of even-valued Fibonacci numbers not exceeding 4,000,000.
 
 ## Approach
 
 - Generate Fibonacci numbers iteratively using a generator
 - Filter even values
-- Sum values reaching the limit
+- Accumulate the sum up to the limit
 
 ## Result
 4613732
